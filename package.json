@@ -1,0 +1,18 @@
+{
+  "name": "lyxestate",
+  "version": "1.0.0",
+  "description": "color palette from: https://icolorpalette.com/a38d87_b8c2d7_c8bbb0_dcd4d4_dbdcec",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev" : "nodemon api/index.js",
+    "start" : "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
