@@ -7,6 +7,7 @@ export default {
   theme: {
     colors: {
       transparent: 'transparent',
+      'white': '#FFFFFF',
       'pharlap-800' : '#50423d',
       'casper' : '#b8c2d7',
       'bisonHide-400' : '#a28d7a',

@@ -30,9 +30,9 @@ const Header = () => {
               About
             </li>
           </Link>
-          <Link to="/sign-in">
+          <Link to="/sign-up">
             <li className="text-pharlap-900 hover:underline hover:cursor-pointer">
-              Sign in
+              Sign up
             </li>
           </Link>
         </ul>
