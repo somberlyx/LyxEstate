@@ -61,7 +61,7 @@ const SignUp = () => {
           onChange={handleChange}
         />
         <input
-          type="text"
+          type="password"
           placeholder="password"
           className="border-pharlap-900 p-3 rounded-lg"
           id="password"
